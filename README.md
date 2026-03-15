@@ -40,3 +40,11 @@ Notas: Abiente virtua ....
 
  	docker unpause meu_ubuntu
 </br>
+<p>DELETAR (stop primeiro)</p>
+
+ 	docker rm meu_ubuntu
+</br>
+<p>DELETAR ISO (opcional)</p>
+
+ 	docker rmi ubuntu
+</br>
